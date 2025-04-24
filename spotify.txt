@@ -5,3 +5,4 @@ eip-ntt.video-ak.cdn.spotify.com.akahost.net
 video-fa.scdn.co
 video-fa.cdn.spotify.com
 video-fa-b.cdn.spotify.com
+youtube.com/youtubei/v1/reel
